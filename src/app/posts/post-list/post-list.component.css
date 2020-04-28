@@ -1,0 +1,46 @@
+:host {
+  display: block;
+  margin-top: 1rem;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+mat-card{
+  margin: 20px;
+text-align: center;
+align-content: center;
+display:flex;
+/* color: black; */
+
+}
+
+mat-paginator {
+  margin-top: 1rem;
+}
+
+.info-text {
+  text-align: center;
+  color: black;
+}
+
+.post-image {
+  width: 100%;
+  
+}
+
+mat-button{
+  width: auto;
+}
+
+.post-image img {
+  width: 50%;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  
+}
+p{
+  margin-right: 60px;
+}
+
+
